@@ -18,7 +18,7 @@ Interestingly, the dictionary returned after creating a Tf-idf Vectorizer correc
 
 **Potential Improvements:**
 
-Cleaner / more accurate results may have been obtained by updating the default stopwords with some custom additions e.g. 'yet' which also had a high score.
+Cleaner / more accurate results may have been obtained by updating the default stopwords with some custom additions e.g. 'yet' which also had a high score but doesn’t necessarily add valuable insight to this text analysis.
 
 Keeping in some more information initially  from the JSON objects (rather than just looking at "content") is likely to have given a better idea of the general topic of each article and allowed for further comparison between articles.
 
